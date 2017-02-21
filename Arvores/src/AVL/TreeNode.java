@@ -1,6 +1,5 @@
 package AVL;
 
-import sun.misc.Signal;
 
 public class TreeNode {
     private TreeNode dir, esq, pai;
