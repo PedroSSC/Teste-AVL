@@ -1,5 +1,5 @@
 package AVL;
-
+//Teste de Commit.
 public class Exec {
     public static void main(String[] args) {
         Tree t = new Tree();
