@@ -14,7 +14,7 @@ public class Tree {
             raiz = new TreeNode(valor);
         }
         else
-            raiz.inserir(raiz, valor);
+            raiz.inserir(this.raiz, valor);
 
     }
     
